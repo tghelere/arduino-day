@@ -7,7 +7,7 @@ logo_url: img/arduino-logo-text.png
 
 # Hero
 hero: 
-    hero_img: arduino-logo-clean.png
+    hero_img: arduinos/arduino-4.jpeg
     hero_title: Arduino Day
     hero_description: Um evento para os admiradores e usuários de Arduino e relacionados.
 
