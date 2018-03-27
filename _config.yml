@@ -1,7 +1,7 @@
 # Site settings
 title: Arduino Day | Arduino-SC
 description: "Arduino Day hotsite"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/arduino-day" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: img/arduino-logo-text.png
 
