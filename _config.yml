@@ -21,11 +21,6 @@ contact:
     email: mrprompt+arduino-sc@gmail.com
     address: Florianópolis, <br> Santa Catarina - Brasil
 
-# Opening hours
-# monday_friday: 9:00 – 18:00
-saturday: 10:00 – 18:00
-# sunday: 10:00 – 15:00
-
 # Testimonials
 testimonials:
     testimonials_img: parallax.jpg
@@ -33,7 +28,7 @@ testimonials:
 # Map
 map:
     zoom: 30
-    address: Florianóplis, SC, Brazil
+    address: Centro - Florianóplis, SC, Brazil
     address_details: svg/min/logo.svg
 
 # Social settings
