@@ -120,7 +120,7 @@ layout: default
     {% for member in site.data.team %}
         <div class="expandable-box">
             <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/members/{{ member.image }}" alt="{{ member.name }}">
+                <img src="{{ site.baseurl }}/img/members/{{ member.image }}" alt="{{ member.name }}" class="img-thumbnail mx-auto" style="max-height: 375px !important">
                 <h4>{{ member.name }}</h4>
             </div>
             <div class="expandable-box-bottom">
