@@ -121,7 +121,7 @@ layout: default
     {% for member in site.data.team %}
         <div class="expandable-box">
             <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/members/{{ member.image }}" alt="{{ member.name }}" class="img-thumbnail mx-auto" style="max-height: 375px !important">
+                <img src="{{ site.baseurl }}/img/members/{{ member.image }}" alt="{{ member.name }}" class="img-thumbnail mx-auto" style="max-height: 350px !important;">
                 <h4>{{ member.name }}</h4>
             </div>
             <div class="expandable-box-bottom">
@@ -140,18 +140,17 @@ layout: default
 <div id="gallery" class="gallery">
         
     <h2 class="section-title">Galeria de Fotos</h2>
-
+    
     {% for images in site.data.gallery %}
         <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
             <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
+                <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}" class="img-thumbnail mx-auto">
             </div>
             <div class="expandable-box-bottom">
                 <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span>
             </div>
         </a>
     {% endfor %}
-
 </div>
 <!-- End Gallery -->
 
