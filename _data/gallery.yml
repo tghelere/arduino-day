@@ -3,29 +3,29 @@
   image_alt: Estufa
 
 - image_thumb: project-2.png
-  image_large: project-1.jpg
+  image_large: project-2.jpg
   image_alt: Arduino Pro mini + Sport Cam
 
-# - image_thumb: gallery-small.jpg
-#   image_large: gallery-large.jpg
-#   image_alt: something meaningful
+- image_thumb: project-3.png
+  image_large: project-3.jpg
+  image_alt: Sensor de umidade de solo + led
 
-# - image_thumb: gallery-small2.jpg
-#   image_large: gallery-large.jpg
-#   image_alt: something meaningful
+- image_thumb: project-4.png
+  image_large: project-4.jpg
+  image_alt: Arduino + LCD + Sensor de umidade de solo
 
-# - image_thumb: gallery-small2.jpg
-#   image_large: gallery-large.jpg
-#   image_alt: something meaningful
+- image_thumb: project-5.png
+  image_large: project-5.jpg
+  image_alt: Sensor de umidade de solo + led
 
-# - image_thumb: gallery-small.jpg
-#   image_large: gallery-large.jpg
-#   image_alt: something meaningful
+- image_thumb: project-6.png
+  image_large: project-6.jpg
+  image_alt: CI 555
 
-# - image_thumb: gallery-small2.jpg
-#   image_large: gallery-large.jpg
-#   image_alt: something meaningful
+- image_thumb: project-7.png
+  image_large: project-7.jpg
+  image_alt: Arduino Caseiro
 
-# - image_thumb: gallery-small.jpg
-#   image_large: gallery-large.jpg
-#   image_alt: something meaningful
+- image_thumb: project-8.png
+  image_large: project-8.jpg
+  image_alt: CI 555
