@@ -16,10 +16,9 @@ api_token: f56bb59f975426ceca9e08636eaab5c4
 
 # Contact info
 contact:
-    # phone: 932 50 540
-    # emergency: 931 53 234
+    phone: +55 48 99185-8982
     email: mrprompt+arduino-sc@gmail.com
-    address: Florianópolis, <br> Santa Catarina - Brasil
+    address: Campus Reitor João David Ferreira Lima, s/n - Trindade, Florianópolis - SC, 88040-900 - Brasil
 
 # Testimonials
 testimonials:
@@ -27,12 +26,12 @@ testimonials:
 
 # Map
 map:
-    zoom: 30
-    address: Centro - Florianóplis, SC, Brazil
+    zoom: 14
+    address: Campus Reitor João David Ferreira Lima, s/n - Trindade, Florianópolis - SC, 88040-900 - Brasil
     address_details: svg/min/logo.svg
 
 # Social settings
-# facebook: http://facebook.com
+facebook: https://fb.me/ArduinoSC
 twitter: http://twitter.com/arduino_sc
 # instagram: http://instagram.com
 # youtube: http://youtube.com
