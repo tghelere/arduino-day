@@ -27,7 +27,7 @@ testimonials:
 
 # Map
 map:
-    zoom: 20
+    zoom: 11
     address: Campus Reitor João David Ferreira Lima, s/n - Trindade, Florianópolis - SC, 88040-900 - Brasil
     address_details: svg/min/logo.svg
 
