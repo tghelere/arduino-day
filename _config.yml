@@ -27,8 +27,8 @@ testimonials:
 
 # Map
 map:
-    zoom: 30
-    address: Centro - Florianóplis, SC, Brazil
+    zoom: 20
+    address: UFSC - Campus Reitor João David Ferreira Lima, s/n - Trindade, Florianópolis - SC, 88040-900 - Brasil
     address_details: svg/min/logo.svg
 
 # Social settings
