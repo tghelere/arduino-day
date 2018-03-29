@@ -176,6 +176,21 @@ layout: default
 </div>
 <!-- End Our team -->
 
+<!-- Start Sponsors -->
+<div id="sponsors" class="gallery">
+        
+    <h2 class="section-title">Apoio</h2>
+    
+    {% for sponsor in site.data.sponsors %}
+        <a href="{{ sponsor.url }}" target="_blank" class="image-link">
+            <div class="expandable-box-top">
+                <img src="{{ site.baseurl }}/img/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
+            </div>
+        </a>
+    {% endfor %}
+</div>
+<!-- End Sponsors -->
+
 <!-- Start Gallery -->
 <div id="gallery" class="gallery">
         
