@@ -241,6 +241,36 @@ layout: default
 </div>
 <!-- End Testimonials -->
 
+<!-- Start FAQ -->
+<div id="faq" class="treatments">
+    <div class="container-fluid">
+        <h2 class="section-title">FAQ</h2>
+        <p class="text-center">Criamos o FAQ para te ajudar a esclarecer as principais dúvidas relacionadas ao evento.</p>
+
+        <div class="panel-group" id="faqAccordion">
+            {% for faq in site.data.faq %}
+            <div class="panel panel-default ">
+                <div class="panel-heading accordion-toggle question-toggle collapsed" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question-{{ forloop.index }}">
+                    <h4 class="panel-title">
+                        {{ faq.question }}
+                    </h4>
+
+                </div>
+                <div id="question-{{ forloop.index }}" class="panel-collapse collapse" style="height: 0px;">
+                    <div class="panel-body">
+                        <p>
+                            {{ faq.answer }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<!-- End FAQ -->
+
+
 <!-- Start Schedule -->
 <div id="schedule" class="about">
     <div class="container-fluid">
