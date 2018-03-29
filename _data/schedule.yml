@@ -1,0 +1,31 @@
+- title: "Lorem Ipsum"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra velit ipsum, maximus bibendum tortor fermentum non. Mauris non viverra nibh, vitae tempus massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et venenatis dui."
+  schedule: "08:00 às 09:00"
+  author:
+    name: "Massimo Banzi"
+    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
+    link: "https://arduino-sc.github.io/arduino-day/"
+
+# - title: "Lorem Ipsum"
+#  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra velit ipsum, maximus bibendum tortor fermentum non. Mauris non viverra nibh, vitae tempus massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et venenatis dui."
+#  schedule: "08:00 às 09:00"
+#  author:
+#    name: "Massimo Banzi"
+#    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
+#    link: "https://arduino-sc.github.io/arduino-day/"
+
+#- title: "Lorem Ipsum"
+#  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra velit ipsum, maximus bibendum tortor fermentum non. Mauris non viverra nibh, vitae tempus massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et venenatis dui."
+#  schedule: "08:00 às 09:00"
+#  author:
+#    name: "Massimo Banzi"
+#    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
+#    link: "https://arduino-sc.github.io/arduino-day/"
+
+#- title: "Lorem Ipsum"
+#  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra velit ipsum, maximus bibendum tortor fermentum non. Mauris non viverra nibh, vitae tempus massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et venenatis dui."
+#  schedule: "08:00 às 09:00"
+#  author:
+#    name: "Massimo Banzi"
+#    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
+#    link: "https://arduino-sc.github.io/arduino-day/"

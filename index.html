@@ -220,6 +220,53 @@ layout: default
 </div>
 <!-- End Testimonials -->
 
+<!-- Start Schedule -->
+<div id="schedule" class="about">
+    <div class="container-fluid">
+        <h2 class="section-title">Programação</h2>
+
+        {% for schedule in site.data.schedule %}
+        <div class="qa-message-list" id="wallmessages">
+            <div class="message-item" id="m16">
+                <div class="message-inner">
+                    <div class="message-head clearfix">
+                        <div class="avatar pull-left">
+                            <a href="">
+                                <img src="{{ schedule.author.avatar }}">
+                            </a>
+                        </div>
+                        <div class="user-detail">
+                            <h5 class="handle">{{ schedule.title }}</h5>
+                            <div class="post-meta">
+                                <div class="asker-meta">
+                                    <span class="qa-message-what"></span>
+                                    <span class="qa-message-when">
+									    <span class="qa-message-when-data">{{ schedule.schedule }}</span>
+									</span>
+                                    <span class="qa-message-who">
+									    <span class="qa-message-who-pad">com </span>
+										<span class="qa-message-who-data">
+                                            <a href="{{ schedule.author.link }}" target="_blank" title="{{ schedule.author.link }}">
+                                                {{ schedule.author.name }}
+                                            </a>
+                                        </span>
+									</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="qa-message-content">
+                        {{ schedule.description }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+</div>
+<!-- End Schedule -->
+
 <!-- Start Map -->
 <div id="location" class="map" data-zoom="{{ site.map.zoom }}" data-address="{{ site.map.address }}" data-address-details="<img src='{{ site.map.address_details }}'>"></div>
 <!-- End Map -->
