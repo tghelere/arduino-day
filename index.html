@@ -177,17 +177,23 @@ layout: default
 <!-- End Our team -->
 
 <!-- Start Sponsors -->
-<div id="sponsors" class="gallery">
-        
+<div id="sponsors" class="treatments">
+    <div class="container-fluid">
     <h2 class="section-title">Apoio</h2>
-    
-    {% for sponsor in site.data.sponsors %}
-        <a href="{{ sponsor.url }}" target="_blank" class="image-link">
-            <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
+
+        <div class="row">
+            {% for sponsor in site.data.sponsors %}
+            <div class="col-sm-6 col-md-4">
+                <a href="{{ sponsor.url }}" target="_blank" class="image-link" title="{{ sponsor.name }}">
+                <div class="icon-box">
+                    <img src="{{ site.baseurl }}/img/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
+                    <p>{{ sponsor.name }}</p>
+                </div>
+                </a>
             </div>
-        </a>
-    {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
 </div>
 <!-- End Sponsors -->
 
