@@ -1,39 +1,29 @@
 - name: Thiago Paes
   image: thiagopaes.jpg
   email: mrprompt@gmail.com
-  phone: +5548991858982
+  phone: +55 48 99185-8982
 
 - name: Ronaldo Matos Rodrigues
   image: whera.jpg
   email: ronaldo@whera.com.br
-  phone: +55 (48) 9 9624-3057
+  phone: +55 48 99624-3057
   
 - name: Thyago Ghelere
   image: tghelere.jpg
   email: ghelere@outlook.com
-  phone: +55 (43) 9 9131-2016
+  phone: +55 43 99131-2016
 
 - name: Guilherme Artur
   image: arthurd2.jpeg
   email: guilherme.geronimo@gmail.com
-  phone: +5548000000000
+  phone: +55 48 98401-6262
 
 - name: Vilian Nicoladeli
   image: viliannicoladeli.jpeg
   email: vilian.nicoladeli@facebook.com
-  phone: +5548000000000
+  phone: +55 48 9620-1781
 
-# - name: Britta Perry
-#   image: team.jpg
-#   email: email@gmail.com
-#   phone: 9659 43 21
-
-# - name: Troy Barnes
-#   image: team.jpg
-#   email: email@gmail.com
-#   phone: 9659 43 21
-
-# - name: Annie
-#   image: team.jpg
-#   email: email@gmail.com
-#   phone: 9659 43 21
+- name: Rafael Ferrari
+  image: rafaelf3rrari.png
+  email: rafael.ferrarinho1@gmail.com
+  phone: +55 48 9602-2385
