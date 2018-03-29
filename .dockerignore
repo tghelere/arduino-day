@@ -1,0 +1,4 @@
+.bundle
+.git*
+.ash_history
+Dockerfile
