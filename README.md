@@ -1,5 +1,7 @@
 # Arduino Day - MAY 12TH 2018
 
+[![Build Status](https://travis-ci.org/Arduino-SC/arduino-day.svg?branch=master)](https://travis-ci.org/Arduino-SC/arduino-day)
+
 Arduino Day hotsite
 
 ## Instalação
