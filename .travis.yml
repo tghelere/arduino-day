@@ -2,8 +2,9 @@ language: ruby
 rvm:
 - 2.1
 
+install: gem install jekyll html-proofer pygments.rb
+
 before_script:
- - gem install jekyll html-proofer pygments.rb
  - chmod +x ./bin/cibuild.sh # or do this locally and commit
 
 # Assume bundler is being used, therefore
