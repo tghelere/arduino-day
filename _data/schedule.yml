@@ -1,10 +1,10 @@
-- title: "Lorem Ipsum"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra velit ipsum, maximus bibendum tortor fermentum non. Mauris non viverra nibh, vitae tempus massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et venenatis dui."
-  schedule: "08:00 às 09:00"
+- title: "Abertura"
+  description: "Abertura do evento"
+  schedule: "10:00"
   author:
-    name: "Massimo Banzi"
-    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
-    link: "https://arduino-sc.github.io/arduino-day/"
+    name: "Thiago Paes"
+    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
+    link: "https://mrprompt.com.br"
 
 # - title: "Lorem Ipsum"
 #  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra velit ipsum, maximus bibendum tortor fermentum non. Mauris non viverra nibh, vitae tempus massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam et venenatis dui."
@@ -29,3 +29,11 @@
 #    name: "Massimo Banzi"
 #    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
 #    link: "https://arduino-sc.github.io/arduino-day/"
+
+- title: "Encerramento"
+  description: "Encerramento do evento, agradecimentos e distribuição de brindes"
+  schedule: "17:30 as 18:00"
+  author:
+    name: "Thiago Paes"
+    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
+    link: "https://mrprompt.com.br"
