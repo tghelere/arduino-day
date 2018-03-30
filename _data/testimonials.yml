@@ -1,10 +1,10 @@
 - name: Thiago Paes
   description: Um evento para todos da família.
-  title: Desenvolvedor - Florianópolis
+  title: Desenvolvedor - Florianópolis-SC
 
 - name: Ronaldo Matos Rodrigues
   description: Arduino em ação.
-  title: Desenvolvedor - Curitiba
+  title: Desenvolvedor - Curitiba-PR
 
 - name: Thyago Ghelere
   description: Achou que não ía ter Arduíno Day em SC? Achou errado otário.
@@ -17,3 +17,7 @@
 - name: Guilherme Artur
   description: Sedentarios hiperativos cheio de vontade.
   title: Analista de sistemas - UFS
+
+- name: Vilian Nicoladeli
+  description: Paixão por Arduino.
+  title: Estudante - Florianópolis-SC
