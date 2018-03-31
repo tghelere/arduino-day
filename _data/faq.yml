@@ -1,8 +1,8 @@
 - question: Minha comunidade pode apoiar o evento?
-  answer: "Sim! Envie um e-mail para $site.contact.email$ para conversarmos sobre isso."
+  answer: Sim! Envie um e-mail para mrprompt+arduino-sc@gmail.com para conversarmos sobre isso.
 
 - question: Quero patrocinar ou apoiar o evento
-  answer: Maravilha! Envie um e-mail para $site.contact.email$ para conversarmos sobre isso.
+  answer: Maravilha! Envie um e-mail para mrprompt+arduino-sc@gmail.com para conversarmos sobre isso.
 
 - question: Quando será realizado o evento?
   answer: A edição de 2018 será realizada no dia 12 de Maio
