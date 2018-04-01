@@ -184,7 +184,7 @@ layout: default
         <div class="row">
             {% for sponsor in site.data.sponsors %}
             <div class="col-sm-6 col-md-4">
-                <a href="{{ sponsor.url }}" target="_blank" class="image-link" title="{{ sponsor.name }}">
+                <a href="{{ sponsor.url }}" target="_blank" title="{{ sponsor.name }}">
                 <div class="icon-box">
                     <img src="{{ site.baseurl }}/img/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
                     <p>{{ sponsor.name }}</p>
@@ -252,7 +252,9 @@ layout: default
             <div class="panel panel-default ">
                 <div class="panel-heading accordion-toggle question-toggle collapsed" data-toggle="collapse" data-parent="#faqAccordion" data-target="#question-{{ forloop.index }}">
                     <h4 class="panel-title">
-                        {{ faq.question }}
+                        <a role="button" data-toggle="collapse" data-parent="#accordion" href="#question-{{ forloop.index }}" aria-expanded="true" aria-controls="question-{{ forloop.index }}">
+                            {{ faq.question }}
+                        </a>
                     </h4>
 
                 </div>
