@@ -27,7 +27,7 @@ testimonials:
 # Map
 map:
     zoom: 14
-    address: Campus Reitor João David Ferreira Lima, s/n - Trindade, Florianópolis - SC, 88040-900 - Brasil
+    address: "UFSC Campus Reitor João David Ferreira Lima, Trindade, Florianópolis - SC, Brasil"
     address_details: img/arduino-logo-clean.png
 
 # Social settings
