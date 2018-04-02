@@ -12,3 +12,8 @@
   image: seurobo.png
   email: vendas@seurobo.com.br
   url: https://loja.seurobo.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+
+- name: Dmesg
+  image: dmesg.png
+  email: faleconosco@dmesg.com.br
+  url: https://www.dmesg.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
