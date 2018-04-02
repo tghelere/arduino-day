@@ -41,7 +41,7 @@
 
                 $.ajax({
                     dataType: 'jsonp',
-                    url: "http://getsimpleform.com/messages/ajax?form_api_token={{ site.api_token }}",
+                    url: "https://getsimpleform.com/messages/ajax?form_api_token={{ site.api_token }}",
                     data: $('#form').serialize()
                 }).done(function () {
                     alert("Obrigado!");
