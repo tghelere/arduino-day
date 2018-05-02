@@ -46,13 +46,13 @@
     avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
     link: "https://mrprompt.com.br"
 
-- title: "Micropython como ferramenta de prototipagem e ensino"
- description: "Micropython como ferramenta de prototipagem e ensino"
- schedule: "14:10 às 14:40"
- author:
-   name: "Cauê Baasch de Souza"
-   avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
-   link: "https://arduino-sc.github.io/arduino-day/"
+# - title: "Micropython como ferramenta de prototipagem e ensino"
+#  description: "Micropython como ferramenta de prototipagem e ensino"
+#  schedule: "14:10 às 14:40"
+#  author:
+#    name: "Cauê Baasch de Souza"
+#    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
+#    link: "https://arduino-sc.github.io/arduino-day/"
 
 - title: "Sorteio"
   description: "Sorteio de brindes dos apoiadores do evento"
