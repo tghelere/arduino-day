@@ -38,14 +38,14 @@
     avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
     link: "https://arduino-sc.github.io/arduino-day/"
 
-- title: "Sorteio"
-  description: "Sorteio de brindes dos apoiadores do evento"
-  schedule: "14:00 às 14:10"
-  author:
-    name: "Thiago Paes"
-    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
-    link: "https://mrprompt.com.br"
-
+# - title: "Sorteio"
+#   description: "Sorteio de brindes dos apoiadores do evento"
+#   schedule: "14:00 às 14:10"
+#   author:
+#     name: "Thiago Paes"
+#     avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
+#     link: "https://mrprompt.com.br"
+# 
 # - title: "Micropython como ferramenta de prototipagem e ensino"
 #  description: "Micropython como ferramenta de prototipagem e ensino"
 #  schedule: "14:10 às 14:40"
