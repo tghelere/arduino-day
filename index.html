@@ -3,40 +3,15 @@ layout: default
 ---
 
 <!-- Start Hero -->
-<div class="hero" style="background: url('{{ site.baseurl }}/img/{{ site.hero.hero_img }}') no-repeat; background-size: cover;">
+<div class="hero" style="background: url('{{ site.baseurl }}/{{ site.hero.hero_img }}') no-repeat; background-size: cover; height: 630px;">
     <div class="hero-content">
         <div class="container-fluid">
+            <!--
             <div class="hero-content-inner">
                 <h1>{{ site.hero.hero_title }}</h1>
                 <p>{{ site.hero.hero_description }}</p>
             </div>
-        </div>
-    </div>
-
-    <div class="container-fluid">
-        
-        <div class="col-sm-6 col-sm-offset-6 col-md-4 col-md-offset-8 form">
-            <h3><svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>Entre em contato</h3>
-
-            <p>
-                Quer saber mais sobre o evento ou nos apoiar? Entre em contato!
-            </p>
-            
-            <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post" id="form">
-                <div class="form-field">
-                    <input name="name" type="text" placeholder="Nome" required>
-                </div>
-                <div class="form-field">
-                    <input name="phone" type="tel" placeholder="Telefone" required class="sp_celphones">
-                </div>
-                <div class="form-field">
-                    <input name="email" type="email" placeholder="E-mail" required>
-                </div>
-                <div class="form-field">
-                    <textarea name="comments" placeholder="Mensagem" required></textarea>
-                </div>
-                <input type="submit" class="btn btn-default" value="Enviar">
-            </form>
+            -->
         </div>
     </div>
 </div>
@@ -154,7 +129,7 @@ layout: default
                 </div>
             </div>
             <div class="col-sm-6">
-                <img src="img/flyer-1.png" alt="Cartaz">
+                <img src="img/flyer-1.jpg" alt="Cartaz">
             </div>
         </div>
     </div>
@@ -186,7 +161,7 @@ layout: default
 <!-- Start Sponsors -->
 <div id="sponsors" class="treatments">
     <div class="container-fluid">
-    <h2 class="section-title">Apoio</h2>
+        <h2 class="section-title">Apoio</h2>
 
         <div class="row">
             {% for sponsor in site.data.sponsors %}
@@ -203,24 +178,6 @@ layout: default
     </div>
 </div>
 <!-- End Sponsors -->
-
-<!-- Start Gallery -->
-<div id="gallery" class="gallery">
-        
-    <h2 class="section-title">Galeria de Fotos</h2>
-    
-    {% for images in site.data.gallery %}
-        <a href="{{ site.baseurl }}/img/gallery/large/{{ images.image_large }}" class="gallery-item expandable-box image-link">
-            <div class="expandable-box-top">
-                <img src="{{ site.baseurl }}/img/gallery/thumb/{{ images.image_thumb }}" alt="{{ images.image_alt }}">
-            </div>
-            <div class="expandable-box-bottom">
-                <span><svg class="icon icon-chain"><use xlink:href="#icon-chain"></use></svg></span>
-            </div>
-        </a>
-    {% endfor %}
-</div>
-<!-- End Gallery -->
 
 <!-- Start Testimonials -->
 <div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
@@ -284,20 +241,35 @@ layout: default
         Entre em contato pelo email <strong>{{ site.contact.email }}</strong>,
         vai ser um prazer te ajudar :)
     </div>
-</div>
-<!-- End FAQ -->
 
-<!-- Start Sponsors -->
-<div id="c4p" class="treatments">
     <div class="container-fluid">
-        <h2 class="section-title">Apresente-se no Evento</h2>
-
-        <iframe 
-            src="https://docs.google.com/forms/d/e/1FAIpQLSe1Ga4nJBg_MKPsYNK808WfR1Hb5ha7H5GLZvDSdBMvn0_vXg/viewform?embedded=true"
-            width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+        <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4 form">
+            <h3>
+                <svg class="icon icon-envelope-o">
+                    <use xlink:href="#icon-envelope-o"></use>
+                </svg>
+                Entre em contato
+            </h3>
+    
+            <form action="https://getsimpleform.com/messages?form_api_token={{ site.api_token }}" method="post" id="form">
+                <div class="form-field">
+                    <input name="name" type="text" placeholder="Nome" required>
+                </div>
+                <div class="form-field">
+                    <input name="phone" type="tel" placeholder="Telefone" required class="sp_celphones">
+                </div>
+                <div class="form-field">
+                    <input name="email" type="email" placeholder="E-mail" required>
+                </div>
+                <div class="form-field">
+                    <textarea name="comments" placeholder="Mensagem" required></textarea>
+                </div>
+                <input type="submit" class="btn btn-default" value="Enviar">
+            </form>
+        </div>
     </div>
 </div>
-<!-- End Sponsors -->
+<!-- End FAQ -->
 
 <!-- Start Schedule -->
 <div id="schedule" class="about">

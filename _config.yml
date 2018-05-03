@@ -3,11 +3,11 @@ title: Arduino Day | Arduino-SC
 description: "Arduino Day hotsite"
 baseurl: "/arduino-day" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: img/arduino-logo-text.png
+logo_url: img/Arduino_DAY2018_Logotype.jpg
 
 # Hero
 hero: 
-    hero_img: arduinos/arduino-4.jpeg
+    hero_img: img/ArduinoDay2018_Cover.jpg
     hero_title: Arduino Day
     hero_description: Um evento para os admiradores e usuários de Arduino e relacionados.
 

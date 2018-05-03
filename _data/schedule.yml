@@ -7,12 +7,12 @@
     link: "https://mrprompt.com.br"
 
 - title: "Introdução ao Arduino"
- description: "Palestra introdutória sobre o Arduino (o que é, para que serve, exemplos, IoT)."
- schedule: "10:15 às 11:15"
- author:
-   name: "Osmar da Cunha Filho"
-   avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
-   link: "https://arduino-sc.github.io/arduino-day/"
+  description: "Palestra introdutória sobre o Arduino (o que é, para que serve, exemplos, IoT)."
+  schedule: "10:15 às 11:15"
+  author:
+    name: "Osmar da Cunha Filho"
+    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
+    link: "https://arduino-sc.github.io/arduino-day/"
 
 - title: "Sorteio"
   description: "Sorteio de brindes dos apoiadores do evento"
@@ -23,29 +23,29 @@
     link: "https://mrprompt.com.br"
 
 - title: "Intervalo"
- description: "Intervalo para almoço"
- schedule: "11:30 às 13:30"
- author:
-   name: "Arduino-SC"
-   avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
-   link: "https://arduino-sc.github.io/arduino-day/"
+  description: "Intervalo para almoço"
+  schedule: "11:30 às 13:30"
+  author:
+    name: "Arduino-SC"
+    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
+    link: "https://arduino-sc.github.io/arduino-day/"
 
 - title: "Sensor Ninja"
- description: "Sensor Ninja é um kit de sensores de baixo custo e uso simplificado para o desenvolvimento de atividades e experimentos escolares de Ciências. Uma grande vantagem está na flexibilidade alcançada, que permite incorporar os dados gerados pelos sensores diretamente a qualquer software (planilhas, editores e mesmo navegadores web) dos dispositivos hospedeiros (tablets, PCs e smartphones), sem a necessidade de instalar aplicativos nem drivers específicos."
- schedule: "13:30 às 14:00"
- author:
-   name: "José Eduardo De Luca"
-   avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
-   link: "https://arduino-sc.github.io/arduino-day/"
-
-- title: "Sorteio"
-  description: "Sorteio de brindes dos apoiadores do evento"
-  schedule: "14:00 às 14:10"
+  description: "Sensor Ninja é um kit de sensores de baixo custo e uso simplificado para o desenvolvimento de atividades e experimentos escolares de Ciências. Uma grande vantagem está na flexibilidade alcançada, que permite incorporar os dados gerados pelos sensores diretamente a qualquer software (planilhas, editores e mesmo navegadores web) dos dispositivos hospedeiros (tablets, PCs e smartphones), sem a necessidade de instalar aplicativos nem drivers específicos."
+  schedule: "13:30 às 14:00"
   author:
-    name: "Thiago Paes"
-    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
-    link: "https://mrprompt.com.br"
+    name: "José Eduardo De Luca"
+    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
+    link: "https://arduino-sc.github.io/arduino-day/"
 
+# - title: "Sorteio"
+#   description: "Sorteio de brindes dos apoiadores do evento"
+#   schedule: "14:00 às 14:10"
+#   author:
+#     name: "Thiago Paes"
+#     avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
+#     link: "https://mrprompt.com.br"
+# 
 # - title: "Micropython como ferramenta de prototipagem e ensino"
 #  description: "Micropython como ferramenta de prototipagem e ensino"
 #  schedule: "14:10 às 14:40"
