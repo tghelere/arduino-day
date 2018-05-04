@@ -37,3 +37,8 @@
   image: adcrew.jpg
   email: contato@adcrew.com.br
   url: http://www.adcrew.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+
+- name: Super Domínios
+  image: superdominios.png
+  email: atendimento@superdominios.org
+  url: https://www.superdominios.org/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
