@@ -2,7 +2,7 @@
 title: Arduino Day | Arduino-SC
 description: "Arduino Day hotsite"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://day.arduinosc.org" # the name of your domain
+url: "https://day.arduinosc.org" # the name of your domain
 logo_url: img/Arduino_DAY2018_Logotype.jpg
 
 # Hero
