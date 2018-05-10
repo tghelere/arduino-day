@@ -166,12 +166,9 @@ layout: default
 
         <div class="row">
             {% for sponsor in site.data.sponsors %}
-            <div class="col-sm-6 col-md-4">
+            <div class="col-sm-6 col-md-3 text-center" style="padding-bottom: 3em">
                 <a href="{{ sponsor.url }}" target="_blank" title="{{ sponsor.name }}">
-                <div class="icon-box">
                     <img src="{{ site.baseurl }}/img/sponsors/{{ sponsor.image }}" alt="{{ sponsor.name }}">
-                    <p>{{ sponsor.name }}</p>
-                </div>
                 </a>
             </div>
             {% endfor %}
