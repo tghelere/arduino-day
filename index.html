@@ -211,9 +211,9 @@ layout: default
     {% assign image_files = site.static_files | where: "image", true %}
 
     {% for myimage in image_files%}
-    <a href="{{ myimage.path }}" class="gallery-item expandable-box image-link">
+    <a href="{{ myimage.path | replace: 'thumb', 'large' }}" class="gallery-item expandable-box image-link">
         <div class="expandable-box-top">
-            <img src="{{ myimage.path | replace: 'thumb', 'large' }}" alt="gallery image" class="img-thumbnail mx-auto">
+            <img src="{{ myimage.path }}" alt="gallery image" class="img-thumbnail mx-auto">
         </div>
         <div class="expandable-box-bottom">
             <span>
