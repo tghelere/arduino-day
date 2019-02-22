@@ -6,7 +6,7 @@ ENV NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 WORKDIR ${HOME}
 
 RUN apk add --update alpine-sdk
-RUN gem install jekyll html-proofer pygments.rb
+RUN gem install jekyll pygments.rb
 
 COPY . ${HOME}
 

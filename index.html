@@ -6,12 +6,12 @@ layout: default
 <div class="hero" style="background: url('{{ site.baseurl }}/{{ site.hero.hero_img }}') no-repeat; background-size: cover; height: 630px;">
     <div class="hero-content">
         <div class="container-fluid">
-            <!--
+            
             <div class="hero-content-inner">
                 <h1>{{ site.hero.hero_title }}</h1>
                 <p>{{ site.hero.hero_description }}</p>
             </div>
-            -->
+           
         </div>
     </div>
 </div>
@@ -23,12 +23,7 @@ layout: default
         <svg class="icon icon-envelope-o"><use xlink:href="#icon-envelope-o"></use></svg>
         <h3>Quando?</h3>
         <p>
-            O evento acontecerá no dia <b>12/05/2018</b> e a entrada é <b>GRATUITA</b>. <br>
-        </p>
-        <p>
-            <a href="https://www.eventbrite.com.br/e/arduino-day-floripa-tickets-44855361594?ref=ebtn" target="_blank">
-                <img src="https://www.eventbrite.com.br/custombutton?eid=44855361594" alt="Eventbrite - Arduino Day - Floripa" />
-            </a>
+            O evento acontecerá no dia <b>16/03/2019</b> e a entrada é <b>GRATUITA</b>. <br>
         </p>
     </div>
     <div class="col-sm-4">
@@ -36,14 +31,15 @@ layout: default
         <h3>Que horas?</h3>
         <p>
             É um evento de dia inteiro, com palestras e muita troca de conhecimento, iremos começar as <b>10hs</b> e 
-            pretendemos encerrar as atividades as <b>18hs</b>. Clique <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MnYxNzloNG9hbHQ4MHY4MjN0dnVjaGFqcm0gbXJwcm9tcHRAbQ&tmsrc=mrprompt%40gmail.com">aqui</a> e salve na sua agenda.
+            pretendemos encerrar as atividades as <b>17hs</b>. 
+            Clique <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MDlvbGZvNXR1cmd0Y2JlZGU5dHVoZm1pbHYgbXJwcm9tcHRAbQ&tmsrc=mrprompt%40gmail.com">aqui</a> e salve na sua agenda.
         </p>
     </div>
     <div class="col-sm-4">
         <svg class="icon icon-map-marker"><use xlink:href="#icon-map-marker"></use></svg>
         <h3>Onde?</h3>
-        <b>UFSC - Universidade Federal de Santa Catarina</b><br>
-        <p>Auditorio da Eng. de Produção - CTC - UFSC</p>
+        <b>IFSC (Instituto Federal de Santa Catarina) Câmpus Florianópolis</b><br>
+        <p>Sala Multimídia do Departamento de Eletrônica</p>
         <p>{{ site.contact.address }}</p>
     </div>
 </div>
@@ -178,7 +174,7 @@ layout: default
 <!-- End Sponsors -->
 
 <!-- Start Testimonials -->
-<div id="testimonials" class="testimonials parallax" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
+<div id="testimonials" class="testimonials parallax hidden" style="background-image: url('{{ site.baseurl }}/img/{{ site.testimonials.testimonials_img }}');">
     <div class="overlay-container">
         <div class="overlay"></div>
         <div class="container-fluid">
@@ -204,7 +200,7 @@ layout: default
 <!-- End Testimonials -->
 
 <!-- Start Gallery -->
-<div id="gallery" class="gallery">
+<div id="gallery" class="gallery hidden">
 
     <h2 class="section-title">Galeria de Fotos</h2>
 
@@ -297,6 +293,8 @@ layout: default
 <div id="schedule" class="about">
     <div class="container-fluid">
         <h2 class="section-title">Programação</h2>
+
+        <h3>Ainda estamos organizando a programação.</h3>
 
         {% for schedule in site.data.schedule %}
         <div class="qa-message-list" id="wallmessages">

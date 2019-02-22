@@ -1,22 +1,6 @@
 - title: "Abertura"
-  description: "Abertura do evento"
+  description: "Abertura do evento e apresentação dos apoiadores e organizadores"
   schedule: "10:00"
-  author:
-    name: "Thiago Paes"
-    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
-    link: "https://mrprompt.com.br"
-
-- title: "Introdução ao Arduino"
-  description: "Palestra introdutória sobre o Arduino (o que é, para que serve, exemplos, IoT)."
-  schedule: "10:15 às 11:15"
-  author:
-    name: "Osmar da Cunha Filho"
-    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
-    link: "https://arduino-sc.github.io/arduino-day/"
-
-- title: "Sorteio"
-  description: "Sorteio de brindes dos apoiadores do evento"
-  schedule: "11:15 às 11:30"
   author:
     name: "Thiago Paes"
     avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
@@ -29,38 +13,6 @@
     name: "Arduino-SC"
     avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
     link: "https://arduino-sc.github.io/arduino-day/"
-
-- title: "Sensor Ninja"
-  description: "Sensor Ninja é um kit de sensores de baixo custo e uso simplificado para o desenvolvimento de atividades e experimentos escolares de Ciências. Uma grande vantagem está na flexibilidade alcançada, que permite incorporar os dados gerados pelos sensores diretamente a qualquer software (planilhas, editores e mesmo navegadores web) dos dispositivos hospedeiros (tablets, PCs e smartphones), sem a necessidade de instalar aplicativos nem drivers específicos."
-  schedule: "13:30 às 14:00"
-  author:
-    name: "José Eduardo De Luca"
-    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
-    link: "https://arduino-sc.github.io/arduino-day/"
-
-- title: "Sorteio"
-  description: "Sorteio de brindes dos apoiadores do evento"
-  schedule: "14:00 às 14:10"
-  author:
-    name: "Thiago Paes"
-    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
-    link: "https://mrprompt.com.br"
-
-- title: "Micropython como ferramenta de prototipagem e ensino"
-  description: "Micropython como ferramenta de prototipagem e ensino"
-  schedule: "14:10 às 14:40"
-  author:
-    name: "Cauê Baasch de Souza"
-    avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
-    link: "https://arduino-sc.github.io/arduino-day/"
-
-- title: "Sorteio"
-  description: "Sorteio de brindes dos apoiadores do evento"
-  schedule: "14:40 às 15:00"
-  author:
-    name: "Thiago Paes"
-    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
-    link: "https://mrprompt.com.br"
 
 - title: "Encerramento"
   description: "Encerramento do evento, agradecimentos e distribuição de brindes"
