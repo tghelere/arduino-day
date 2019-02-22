@@ -1,13 +1,13 @@
 # Site settings
-title: Arduino Day | Arduino-SC
+title: Arduino Day 2019 | Arduino-SC
 description: "Arduino Day hotsite"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://day.arduinosc.org" # the name of your domain
-logo_url: img/Arduino_DAY2018_Logotype.jpg
+logo_url: DigitalKit/Floripa18/logo_e_artes_soltas/se_joga_nessa_onda_2.jpg
 
 # Hero
 hero: 
-    hero_img: img/ArduinoDay2018_Cover.jpg
+    hero_img: DigitalKit/Floripa18/logo_e_artes_soltas/hercilio_luz.jpg
     hero_title: Arduino Day
     hero_description: Um evento para os admiradores e usuários de Arduino e relacionados.
 
@@ -17,8 +17,8 @@ api_token: f56bb59f975426ceca9e08636eaab5c4
 # Contact info
 contact:
     phone: +55 48 99185-8982
-    email: mrprompt+arduino-sc@gmail.com
-    address: Campus Reitor João David Ferreira Lima, s/n - Trindade, Florianópolis - SC, 88040-900 - Brasil
+    email: day@arduinosc.org
+    address: Av. Mauro Ramos, 950 - Centro, Florianópolis - SC, 88020-300 - Brasil
 
 # Testimonials
 testimonials:
@@ -27,7 +27,7 @@ testimonials:
 # Map
 map:
     zoom: 14
-    address: "UFSC Campus Reitor João David Ferreira Lima, Trindade, Florianópolis - SC, Brasil"
+    address: "IFSC Câmpus Florianópolis, Centro, Florianópolis - SC, Brasil"
     address_details: img/arduino-logo-clean.png
 
 # Social settings
@@ -37,10 +37,10 @@ twitter: http://twitter.com/arduino_sc
 # youtube: http://youtube.com
 # skype: skype:obaez_design?userinfo
 whatsapp: https://chat.whatsapp.com/Fg4DEDyPbGW121eUuE5Pan
-feed: yes
+feed: no
 
 # Footer
-copyright: 2018 Arduino-SC
+copyright: 2019 Arduino-SC
 
 # Build settings
 markdown: kramdown

@@ -1,49 +1,49 @@
-- name: CASA DO CÓDIGO
-  image: casadocodigo.png
-  email: contato@casadocodigo.com.br
-  url: https://www.casadocodigo.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: CASA DO CÓDIGO
+#   image: casadocodigo.png
+#   email: contato@casadocodigo.com.br
+#   url: https://www.casadocodigo.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
 - name: IMASTERS
   image: imasters.png
   email: redacao@imasters.com.br
   url: https://www.imasters.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
-- name: SEU ROBÔ
-  image: seurobo.png
-  email: vendas@seurobo.com.br
-  url: https://loja.seurobo.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: SEU ROBÔ
+#   image: seurobo.png
+#   email: vendas@seurobo.com.br
+#   url: https://loja.seurobo.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
-- name: PHP-SC
-  image: phpsc.png
-  email: thiagopaes@phpsc.com.br
-  url: http://www.phpsc.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: PHP-SC
+#   image: phpsc.png
+#   email: thiagopaes@phpsc.com.br
+#   url: http://www.phpsc.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
-- name: AD CREW
-  image: adcrew.jpg
-  email: contato@adcrew.com.br
-  url: http://www.adcrew.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: AD CREW
+#   image: adcrew.jpg
+#   email: contato@adcrew.com.br
+#   url: http://www.adcrew.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
-- name: CIASC
-  image: ciasc.png
-  email: evertonpp@ciasc.sc.gov.br
-  url: http://www.ciasc.sc.gov.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: CIASC
+#   image: ciasc.png
+#   email: evertonpp@ciasc.sc.gov.br
+#   url: http://www.ciasc.sc.gov.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
-- name: DMESG
-  image: dmesg.png
-  email: faleconosco@dmesg.com.br
-  url: https://www.dmesg.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: DMESG
+#   image: dmesg.png
+#   email: faleconosco@dmesg.com.br
+#   url: https://www.dmesg.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
-- name: ROBOCORE
-  image: robocore.png
-  email: info@robocore.net
-  url: https://www.robocore.net/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: ROBOCORE
+#   image: robocore.png
+#   email: info@robocore.net
+#   url: https://www.robocore.net/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
-- name: CISTEK
-  image: cistek.png
-  email: cistek@cistek.com.br
-  url: https://www.cistek.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: CISTEK
+#   image: cistek.png
+#   email: cistek@cistek.com.br
+#   url: https://www.cistek.com.br/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
 
-- name: Super Domínios
-  image: superdominios.png
-  email: atendimento@superdominios.org
-  url: https://www.superdominios.org/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+# - name: Super Domínios
+#   image: superdominios.png
+#   email: atendimento@superdominios.org
+#   url: https://www.superdominios.org/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
