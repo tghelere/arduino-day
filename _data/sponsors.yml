@@ -47,3 +47,9 @@
 #   image: superdominios.png
 #   email: atendimento@superdominios.org
 #   url: https://www.superdominios.org/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+
+- name: FilipeFlop
+  image: filipeflop.png
+  email: contato@filipeflop.com
+  url: https://www.filipeflop.com/?utm_source=arduino-day&utm_medium=banner&utm_campaign=apoio
+
