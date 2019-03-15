@@ -295,18 +295,16 @@ layout: default
     <div class="container-fluid">
         <h2 class="section-title">Programação</h2>
 
-        <h3>Ainda estamos organizando a programação.</h3>
-
         {% for schedule in site.data.schedule %}
         <div class="qa-message-list" id="wallmessages">
             <div class="message-item" id="m16">
                 <div class="message-inner">
                     <div class="message-head clearfix">
-                        <div class="avatar pull-left">
+                        {% comment %} <div class="avatar pull-left">
                             <a href="">
                                 <img src="{{ schedule.author.avatar }}">
                             </a>
-                        </div>
+                        </div> {% endcomment %}
                         <div class="user-detail">
                             <h5 class="handle">{{ schedule.title }}</h5>
                             <div class="post-meta">
@@ -315,14 +313,14 @@ layout: default
                                     <span class="qa-message-when">
 									    <span class="qa-message-when-data">{{ schedule.schedule }}</span>
 									</span>
-                                    <span class="qa-message-who">
+                                    {% comment %} <span class="qa-message-who">
 									    <span class="qa-message-who-pad">com </span>
 										<span class="qa-message-who-data">
                                             <a href="{{ schedule.author.link }}" target="_blank" title="{{ schedule.author.link }}">
                                                 {{ schedule.author.name }}
                                             </a>
                                         </span>
-									</span>
+									</span> {% endcomment %}
                                 </div>
                             </div>
                         </div>

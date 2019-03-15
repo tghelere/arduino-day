@@ -6,6 +6,22 @@
     avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
     link: "https://mrprompt.com.br"
 
+- title: "Apresentações"
+  description: "Apresentações de projetos e palestras"
+  schedule: "10:30"
+  author:
+    name: "Thiago Paes"
+    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
+    link: "https://mrprompt.com.br"
+
+- title: "Sorteio"
+  description: "Sorteio de brindes"
+  schedule: "11:15"
+  author:
+    name: "Thiago Paes"
+    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
+    link: "https://mrprompt.com.br"
+
 - title: "Intervalo"
   description: "Intervalo para almoço"
   schedule: "11:30 às 13:30"
@@ -14,9 +30,25 @@
     avatar: "https://ssl.gstatic.com/accounts/ui/avatar_2x.png"
     link: "https://arduino-sc.github.io/arduino-day/"
 
+- title: "Apresentações"
+  description: "Apresentações de projetos e palestras"
+  schedule: "13:30"
+  author:
+    name: "Thiago Paes"
+    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
+    link: "https://mrprompt.com.br"
+
+- title: "Sorteio"
+  description: "Sorteio de brindes"
+  schedule: "16:15"
+  author:
+    name: "Thiago Paes"
+    avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
+    link: "https://mrprompt.com.br"
+
 - title: "Encerramento"
   description: "Encerramento do evento, agradecimentos e distribuição de brindes"
-  schedule: "17:30 às 18:00"
+  schedule: "16:30 às 17:00"
   author:
     name: "Thiago Paes"
     avatar: "https://avatars2.githubusercontent.com/u/166088?s=400&v=4"
