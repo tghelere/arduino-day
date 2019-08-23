@@ -1,66 +1,11 @@
 # Site settings
+theme: jekyll-theme-minimal
 title: Arduino Day 2019 | Arduino-SC
-description: "Arduino Day hotsite"
+description: "Arduino-SC - Grupo de Usuários Arduino de Santa Catarina"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://day.arduinosc.org" # the name of your domain
-logo_url: DigitalKit/Floripa18/logo_e_artes_soltas/se_joga_nessa_onda_2.jpg
-
-# Hero
-hero: 
-    hero_img: DigitalKit/Floripa18/logo_e_artes_soltas/hercilio_luz.jpg
-    hero_title: Arduino Day
-    hero_description: Um evento para os admiradores e usuários de Arduino e relacionados.
-
-# Contact form
-api_token: f56bb59f975426ceca9e08636eaab5c4
-
-# Contact info
-contact:
-    phone: +55 48 99185-8982
-    email: day@arduinosc.org
-    address: Av. Mauro Ramos, 950 - Centro, Florianópolis - SC, 88020-300 - Brasil
-
-# Testimonials
-testimonials:
-    testimonials_img: parallax.jpg
-
-# Map
-map:
-    zoom: 14
-    address: "IFSC Câmpus Florianópolis, Centro, Florianópolis - SC, Brasil"
-    address_details: img/arduino-logo-clean.png
-
-# Social settings
-facebook: https://fb.me/ArduinoSC
-twitter: http://twitter.com/arduino_sc
-# instagram: http://instagram.com
-# youtube: http://youtube.com
-# skype: skype:obaez_design?userinfo
-# whatsapp: https://chat.whatsapp.com/Fg4DEDyPbGW121eUuE5Pan
-feed: no
-
-# Footer
-copyright: 2019 Arduino-SC
-
-# Build settings
+url: "https://www.arduinosc.org" # the name of your domain
+logo: img/arduino-logo-clean.png
 markdown: kramdown
-
-exclude: [
-    package.json,
-    Gruntfile.js,
-    node_modules,
-    .sass-cache,
-    Gemfile,
-    Gemfile.lock,
-    .gitignore
-]
-
-# Theme Settings
-analytics: UA-116538996-1
+google_analytics: UA-116538996-1
 google_verification: AIzaSyByw7AqzbYASj16OB1LbBilo7vZtunHP0I
-
-defaults:
-  - scope:
-      path: "img/gallery/thumb"
-    values:
-      image: true
+show_downloads: false

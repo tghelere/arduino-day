@@ -1,20 +1,12 @@
-# Arduino Day - MAY 12TH 2018
+# Arduino-SC
 
-[![Build Status](https://travis-ci.org/Arduino-SC/arduino-day.svg?branch=master)](https://travis-ci.org/Arduino-SC/arduino-day)
+Grupo de Usuários de Arduino de Santa Catarina.
 
-Arduino Day hotsite
+[![Build Status](https://travis-ci.org/Arduino-SC/arduino-sc.svg?branch=master)](https://travis-ci.org/Arduino-SC/arduino-sc)
 
 ## Instalação
 
 ```console
-docker build -t arduino-day .
-docker run -it --rm -p 4000:4000 --name arduino-day -v `pwd`:/usr/src/app arduino-day
+docker build -t arduino-sc .
+docker run -it --rm -p 4000:4000 --name arduino-sc -v `pwd`:/usr/src/app arduino-sc
 ```
-
-## Original Template
-
-### DentistSmile - Jekyll Theme
-
-A single page Jekyll theme for dental clinics. It's easily customizable and responsive. It comes with svg icons, google map and a working contact form. Docs can be found [here](http://obaez.com/dentistsmile-docs/).
-
-Here is a [live Demo](http://obaez.com/dentistsmile/)
