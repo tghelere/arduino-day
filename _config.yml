@@ -1,6 +1,6 @@
 # Site settings
 theme: jekyll-theme-minimal
-title: Arduino Day 2019 | Arduino-SC
+title: Arduino-SC
 description: "Arduino-SC - Grupo de Usuários Arduino de Santa Catarina"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.arduinosc.org" # the name of your domain
