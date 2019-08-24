@@ -1,8 +1,13 @@
 ---
 layout: default
+title: Arduino-SC
 ---
 
-## Agenda
+# Arduino Santa Catarina
+
+Seja bem vindo a página do Grupo de Usuários Arduino de Santa Catarina.
+
+## Próximos Eventos
 
 - :)
 
