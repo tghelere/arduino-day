@@ -8,3 +8,18 @@ logo: img/se_joga_nessa_onda.jpg
 markdown: kramdown
 google_analytics: UA-116538996-1
 show_downloads: false
+
+# Plugins
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+# Pagination
+paginate: 5
+pagination_path: "/:num"
+
+# Build settings
+highlighter: rouge
+timezone: America/Sao_Paulo
+permalink: pretty
